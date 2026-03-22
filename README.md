@@ -5,7 +5,7 @@ It allows you to organize, update, and track your tasks with ease — complete w
 
 ## 🚀 Features
 
-- 🔐 **Admin Login** with password hashing (DJB2 algorithm)
+- 🔐 **Admin Login** with password hashing 
 - ➕ **Add Tasks** with unique IDs
 - ✅ **Mark Tasks as Completed**
 - 🔍 **Search Tasks** with case-insensitive keyword matching
